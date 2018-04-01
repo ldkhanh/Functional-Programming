@@ -8,5 +8,7 @@
     <artifactId>functional-programming</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Functional Programming Java8</name>
+
 
 </project>
